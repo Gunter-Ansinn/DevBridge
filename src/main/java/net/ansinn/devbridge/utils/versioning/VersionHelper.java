@@ -1,4 +1,4 @@
-package net.ansinn.devbridge.versioning;
+package net.ansinn.devbridge.utils.versioning;
 
 import java.util.Optional;
 import java.util.jar.Manifest;
